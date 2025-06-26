@@ -21,14 +21,15 @@ Employee attrition can cost organizations millions in lost talent and hiring. Th
 - Provide actionable HR insights via dashboard
 
 ---
-
 ## 🧱 Project Architecture
 
-├── data/ # Raw CSV dataset
-├── notebooks/ # Python EDA + modeling notebook
-├── output/ # Cleaned + enriched CSVs & model
-├── powerbi/ # Final .pbix file (Power BI dashboard)
-├── visuals/ # Charts for README/docs
+Employee-Attrition-Prediction/
+
+├── data/           # Raw CSV dataset  
+├── notebooks/      # Python EDA + modeling notebook  
+├── output/         # Cleaned + enriched CSVs & model  
+├── powerbi/        # Final .pbix file (Power BI dashboard)  
+├── visuals/        # Charts for README/docs  
 └── README.md
 
 ---
@@ -95,16 +96,16 @@ Employee attrition can cost organizations millions in lost talent and hiring. Th
 Below are sample screenshots of the interactive Power BI dashboard pages:
 
 **Page 1: Attrition Risk & Cost Overview**  
-![Dashboard Page 1](visuals/charts/1.png)
+![Dashboard Page 1](https://github.com/D1VYANSHx7877/Employee-Attrition-Prediction/blob/main/visuals/charts/1.PNG)
 
 **Page 2: Department-Level Insights**  
-![Dashboard Page 2](visuals/charts/2.png)
+![Dashboard Page 2](https://github.com/D1VYANSHx7877/Employee-Attrition-Prediction/blob/main/visuals/charts/2.PNG)
 
 **Page 3: Strategic HR Actions**  
-![Dashboard Page 3](visuals/charts/3.png)
+![Dashboard Page 3](https://github.com/D1VYANSHx7877/Employee-Attrition-Prediction/blob/main/visuals/charts/3.PNG)
 
 **Bonus: KPI Tooltip Page**  
-![KPI Tooltip Page](visuals/charts/tooltip.png)
+![KPI Tooltip Page](https://github.com/D1VYANSHx7877/Employee-Attrition-Prediction/blob/main/visuals/charts/tooltip.PNG)
 
 ---
 
