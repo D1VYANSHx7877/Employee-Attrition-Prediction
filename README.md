@@ -143,7 +143,7 @@ Below are sample screenshots of the interactive Power BI dashboard pages:
 
 📧 divyanshdhadhich@gmail.com  
 📍 India  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/divyansh-dhadhich/)  
 🌐 Portfolio coming soon
 
 ---
